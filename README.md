@@ -1,6 +1,6 @@
 # Transjakarta-Corridor-2
 
-# 🚌 TransJakarta Corridor 2 – Revenue & Operational Efficiency Analysis
+# TransJakarta Corridor 2 – Revenue & Operational Efficiency Analysis
 
 ##  Overview
 This project analyzes **TransJakarta Corridor 2 (Pulogadung–Harmoni)** to evaluate its **operational performance, revenue efficiency, and passenger distribution**.  
